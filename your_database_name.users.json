@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "65d04a76bf686109b3ea858a"
+  },
+  "name": "Emily",
+  "email": "emily@example.com",
+  "age": 28,
+  "city": "London",
+  "country": "UK"
+},
+{
+  "_id": {
+    "$oid": "65d0a03b69ac2200492f5f92"
+  },
+  "name": "Achyut",
+  "email": "achyut@example.com",
+  "age": 22,
+  "city": "Gwalior",
+  "country": "India"
+},
+{
+  "_id": {
+    "$oid": "65d0ae8d69ac2200492f5f93"
+  },
+  "name": "Ram",
+  "email": "ram@example.com",
+  "age": 12,
+  "city": "ujjain",
+  "country": "India"
+},
+{
+  "_id": {
+    "$oid": "65d0aed369ac2200492f5f94"
+  },
+  "name": "Shyam",
+  "email": "shyam@example.com",
+  "age": 12,
+  "city": "agra",
+  "country": "India"
+},
+{
+  "_id": {
+    "$oid": "65d0af0a69ac2200492f5f95"
+  },
+  "name": "Pinku",
+  "email": "pinku@example.com",
+  "age": 13,
+  "city": "New Delhi",
+  "country": "India"
+}]
